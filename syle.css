@@ -1,0 +1,14 @@
+.marquee {
+height: 50px;
+overflow: hidden;
+position: relative;
+background: #fefefe;
+color:coral;
+border: 1px solid #4a4a4a;
+        }
+
+body{
+  text-align:center;
+  background:linear-gradient(
+  #ffe6e6 0%,#ff0000 100%); 
+}
